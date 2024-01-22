@@ -16,7 +16,7 @@
 1. Put tokens in data/tokens.txt 
 2. Put proxies in data/proxies.txt (not needed) 
 3. Put captcha key in data/config.json (not needed)
-4. Run main.py
+4. Run main.py 
 
 <a id="features"></a>
 

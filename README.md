@@ -8,7 +8,7 @@
 
 - [📁 Setting up](#setup)
 - [⚔️ Features](#features)
-- [📸 Screenshots](#screenshot)
+- [📸 Screenshots](#screenshot) 
 - [⚠️ Note](#note)
 
 ### 〢 Setting Up
